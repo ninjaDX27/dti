@@ -1,7 +1,7 @@
 # dti
 # 📊 Plano de Estudos: Formação em Dados
 
-## Semana 1: Onboarding e Fundamentos de Python & SQL
+## Semana 1: Fundamentos de Python & SQL
 - Introdução ao programa e ferramentas
 - Conceitos básicos de Python
 - Fundamentos de SQL

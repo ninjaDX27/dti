@@ -25,6 +25,20 @@
 - Regressão linear e logística
 - Métricas de avaliação
 
+  python & SQL Fundamentals
+Semana 2: Foundations for Data Science & Machine Learning
+⁠Semana 3: Data Visualization, Data Wrangling and Feature Engineering
+Semana 4 e 5: Supervised Learning: Regression, Classification & Time Series
+Semana 6: Unsupervised Learning & Recommender Systems
+Semana 7: Supervised Learning: Advanced Learning Models (introducing neural networks)
+Semana 8: Computer Vision & Introduction to Language Models
+Semana 9: Attention is all you need: Transformers and Generative AI
+Semana 10: AI in the Cloud: Predictive Machine Learning, Computer Vision & GenAI
+Semana 11: My first week at the AI Factory (end to end use case)"
+
+
+
+
 ## Semana 5: Projeto Final e Apresentação
 - Desenvolvimento de um projeto de dados
 - Preparação da apresentação
